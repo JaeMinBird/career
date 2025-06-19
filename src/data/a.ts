@@ -11,7 +11,7 @@ export const jobData: JobInfo[] = [
   {
     id: 1,
     company: "Google",
-    title: "Senior Software Engineer",
+    title: "ML Researcher",
     startDate: "Jan 2023",
     endDate: "Present",
     description: "Led development of scalable web applications serving millions of users. Implemented modern React patterns and optimized performance across multiple platforms."
@@ -19,7 +19,7 @@ export const jobData: JobInfo[] = [
   {
     id: 2,
     company: "Microsoft",
-    title: "Frontend Developer",
+    title: "Software Engineer",
     startDate: "Aug 2021",
     endDate: "Dec 2022",
     description: "Built responsive user interfaces using React and TypeScript. Collaborated with design teams to create intuitive user experiences for enterprise applications."
@@ -27,7 +27,7 @@ export const jobData: JobInfo[] = [
   {
     id: 3,
     company: "Meta",
-    title: "Full Stack Developer",
+    title: "Webdev Intern",
     startDate: "Mar 2020",
     endDate: "Jul 2021",
     description: "Developed end-to-end solutions using React, Node.js, and GraphQL. Worked on social media features impacting user engagement and platform growth."
@@ -35,7 +35,7 @@ export const jobData: JobInfo[] = [
   {
     id: 4,
     company: "Apple",
-    title: "iOS Developer",
+    title: "Support Technician",
     startDate: "Jun 2018",
     endDate: "Feb 2020",
     description: "Created native iOS applications using Swift and UIKit. Focused on performance optimization and seamless user experience across different Apple devices."
