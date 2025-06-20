@@ -148,7 +148,7 @@ export default function Experience() {
     return (
       <div className="min-h-screen bg-white font-sans">
         <div className="w-full px-6 py-16">
-          <div className="relative h-[50vh] mb-6 overflow-hidden">
+          <div className="relative h-[50vh] overflow-hidden">
             <div className="absolute inset-0 z-0">
               <AnimatePresence>
                 {hoveredJob && (
